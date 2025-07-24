@@ -53,3 +53,35 @@ git checkout (file name)             : to bring the file to the previous stage
 
 
 git clone (url)                : this will make a new folder and store all the things and if we want to create a new repo then we will writ git clone (url) .            :
+
+
+
+
+
+
+git ignore ?
+
+how to ignore files?
+=go in git bash type  touch .gitignore    this will create a .gitignore file 
+
+
+
+
+If you want to ignore a file that is already checked in, you must untrack the file before you add a rule to ignore it. From your terminal, untrack the file.
+git rm --cached FILENAME
+
+
+
+
+
+
+branches in git
+
+
+git branch                  used to check the branches of the repo
+
+
+git branch "login_system"      adds a new branch login_system
+
+
+git checkout login_system      changes from other to login system
