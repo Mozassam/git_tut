@@ -1,0 +1,47 @@
+This is version one of my code
+
+
+
+git init
+used to initialize a git file
+
+
+ls   :used to know how many files are there in that directory
+
+
+
+cd ~/(folder name)     :used to go inside a particular directory
+
+
+
+cd ..           :used to come out of a directory
+
+
+
+git status      :used to check the status of the git.
+
+
+
+(Add files to the staging area)
+git add filename.txt         :to add specific file name
+
+
+
+
+git add .             :to add all files(new + modified)
+
+
+
+
+git commit -m "Added login page"       :to commit the changes.
+
+
+
+
+(push to github)\
+if you've already connected your Git repo to a GitHub remote:
+
+git push origin master   to push
+
+
+
