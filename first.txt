@@ -51,3 +51,5 @@ git checkout (file name)             : to bring the file to the previous stage
 
 
 
+
+git clone (url)                : this will make a new folder and store all the things and if we want to create a new repo then we will writ git clone (url) .            :
