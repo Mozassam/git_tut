@@ -45,3 +45,9 @@ git push origin master   to push
 
 
 
+git reset (file name)               :used to unstage a file
+git checkout (file name)             : to bring the file to the previous stage
+
+
+
+
