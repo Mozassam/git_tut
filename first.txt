@@ -85,3 +85,33 @@ git branch "login_system"      adds a new branch login_system
 
 
 git checkout login_system      changes from other to login system
+
+
+
+
+
+
+
+
+how to merge this branch file to main
+
+first switch from login system to main by
+git checkout "main"
+
+
+then merge files of login system to main by
+git merge login_system
+
+then push it to the GitHub
+git push -u origin main
+
+
+
+
+how to delete a branch
+
+git branch -d (branch name)         this will delete from your system only
+
+
+
+git push origin --delete (file name)        this will delete from GitHub also
